@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {com.lambdaisland/witchcraft {:mvn/version "0.37.324"}}}
